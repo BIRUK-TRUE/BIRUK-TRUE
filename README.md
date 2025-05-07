@@ -14,8 +14,7 @@
 - 🎓 Student at **Hawassa University**, Ethiopia.  
 - 💻 **Frontend Developer** with experience in:
   - **HTML**, **CSS**, **Bootstrap**, **JavaScript**, **jQuery**, **Git**  
-- 🚀 Currently learning **Node.js** and **Express.js** to expand my skills into backend development.  
-- 🌌 Creator of the [Space-Themed Website](https://biruk-true.github.io/Space-website/).
+- 🚀 Currently learning **Node.js** and **Express.js** to expand my skills into backend development. 
 
 ---
 
@@ -51,9 +50,6 @@
 ### 📫 Connect with Me  
 <p align="center">
   <a href="https://github.com/Biruk-true"><img src="https://img.shields.io/badge/GitHub-Biruk--true-black?style=flat&logo=github" alt="GitHub Badge" /></a>
-  <a href="https://t.me/YourTelegramUsername" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white" alt="Telegram Badge" /></a>
-  <a href="https://www.linkedin.com/in/YourLinkedInUsername/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" /></a>
-  <a href="https://www.facebook.com/YourFacebookUsername" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" alt="Facebook Badge" /></a>
 </p>
 
 ---
