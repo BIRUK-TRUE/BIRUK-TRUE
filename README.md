@@ -47,11 +47,5 @@
 
 ---
 
-### 📫 Connect with Me  
-<p align="center">
-  <a href="https://github.com/Biruk-true"><img src="https://img.shields.io/badge/GitHub-Biruk--true-black?style=flat&logo=github" alt="GitHub Badge" /></a>
-</p>
-
----
 
 Thanks for visiting! 😊 Feel free to explore my repositories and watch my journey as a developer.
